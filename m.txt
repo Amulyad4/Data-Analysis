@@ -1,0 +1,17 @@
+Dataset Name	Description
+titanic	Passenger data, survival info
+tips	Restaurant tips data
+iris	Iris flower measurements
+penguins	Penguin species and measurements
+flights	Monthly airline passengers
+diamonds	Diamond prices and attributes
+exercise	Physical exercise data
+planets	Planetary data from exoplanet discoveries
+mpg	Car fuel efficiency dataset
+diamonds	Diamond prices and attributes
+attention	Visual attention experiments
+dots	Dot patterns experiment
+fmri	fMRI brain scan data
+geyser	Old Faithful geyser eruption times
+tips	Restaurant tips data
+taxis	NYC taxi trips data
